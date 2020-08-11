@@ -1,0 +1,37 @@
+{
+  "id": "1998575",
+  "name": "ctrip",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11439211",
+      "name": "下箭头",
+      "font_class": "arrow-left",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "2304606",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "13657191",
+      "name": "电 话",
+      "font_class": "dianhua",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "14167056",
+      "name": "人 (1)",
+      "font_class": "ren1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
